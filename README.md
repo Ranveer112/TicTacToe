@@ -12,5 +12,7 @@ And a message on the console asking for the player 1 input
 ```
    What is Player 1 move?
 ```
+Player 1 is expected to enter ```x,y``` input with no spaces where x and y are of datatype ```int```. Failure to do so leads to an exception. 
+```0,0``` denotes the uppermost left corner of the board.
 
    
