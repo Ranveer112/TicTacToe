@@ -28,6 +28,6 @@ After player 1 has entered his/her input, console asks for the input from player
    What is Player 2 move?
 ```
 
-After a player has won according to the rules to the TicTacToe, game is terminated, and console reports the player who has son
+After a player has won according to the rules to the TicTacToe, game is terminated, and console reports the player who has won
 
    
