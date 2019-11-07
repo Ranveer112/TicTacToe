@@ -5,4 +5,5 @@ Board intially looks like
    e e e
    e e e
 ```
+the 
    
